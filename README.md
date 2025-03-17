@@ -1,4 +1,4 @@
-# Spotify-music-website
+# Spotify-clone-website
 A website for users to discover, preview and listen to new releases from Spotify music.
 
 ## Back-end server
